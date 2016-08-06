@@ -1,0 +1,29 @@
+_repo: Old-Lady-Number-31_10087
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forsslund, Louise
+    aliases:
+    - Foster, May Louise
+    - Foster, Mary Louise
+    birthdate: 1876
+    deathdate: 1910
+    gutenberg_agent_id: '3301'
+    url: http://www.gutenberg.org/2009/agents/3301
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10087'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Older people -- Fiction'
+- !lcsh 'Long Island (N.Y.) -- Fiction'
+- GITenberg
+title: Old Lady Number 31
+url: http://www.gutenberg.org/ebooks/10087
